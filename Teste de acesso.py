@@ -1,3 +1,3 @@
 nome = "Testando acesso"
 
-print nome
+print nome + '!'
